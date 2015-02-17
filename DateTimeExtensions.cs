@@ -1,6 +1,6 @@
 using System;
 
-namespace Tasker.Tools.Extensions
+namespace Tools.Extensions
 {
     public static class DateTimeExtensions
     {
